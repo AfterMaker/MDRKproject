@@ -1,0 +1,1 @@
+export { TabIconWrapper } from './TabIconWrapper'
